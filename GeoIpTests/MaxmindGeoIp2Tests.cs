@@ -18,6 +18,6 @@ namespace GeoIpTests
         //    var result = service.GetGeoLocation(IPAddress.Parse("213.205.251.152"), config);
         //    Assert.AreEqual("GB", result.CountryCode);
         //}
-        
+
     }
 }
